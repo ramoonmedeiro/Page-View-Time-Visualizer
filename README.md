@@ -26,5 +26,5 @@ In the figure below you can see two boxplot graphs. The graph on the left shows 
 Boxplot plots are great for looking at how values are distributed for each year and each month. Another interesting thing is to observe the oulier values, which are values above the maximum or below the minimum for the extremes established in the boxplot.
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/102380417/178589029-d4d52561-c760-4d0a-bd56-5efc297685b9.png" width="800px" />
+  <img src="https://user-images.githubusercontent.com/102380417/178589029-d4d52561-c760-4d0a-bd56-5efc297685b9.png" width="1000px" />
 </div>
