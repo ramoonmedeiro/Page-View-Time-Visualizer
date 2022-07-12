@@ -1,6 +1,6 @@
 # Page-View-Time-Visualizer
 
-This project aims to study the number of views of the freeCodeCamp.org forum page between the dates 2016-05-09 to 2019-12-03. The dataset used was fcc-forum-pageviews.csv. Data cleaning was performed for days when pageviews were in the top 2.5% of the dataset or the bottom 2.5% of the dataset. Such data were excluded.
+This project aims to study the number of views of the freeCodeCamp.org forum page between the dates 2016-05-09 to 2019-12-03. The dataset used was fcc-forum-pageviews.csv. Data cleaning was performed for days when pageviews were in the top 2.5% of the dataset or the bottom 2.5% of the dataset. Such data were excluded. The full project can be seen here: https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/page-view-time-series-visualizer.
 
 # LinePlot 
 
@@ -21,6 +21,9 @@ Some months are missing for the year 2016, as they were not included in the data
 </div>
 
 # BoxPlot
+
+In the figure below you can see two boxplot graphs. The graph on the left shows the values for each year. And the graph on the right shows the values for each month for all years.
+Boxplot plots are great for looking at how values are distributed for each year and each month. Another interesting thing is to observe the oulier values, which are values above the maximum or below the minimum for the extremes established in the boxplot.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/102380417/178589029-d4d52561-c760-4d0a-bd56-5efc297685b9.png" width="700px" />
